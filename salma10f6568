@@ -1,0 +1,10 @@
+print f("enter 3 numbera")
+check f("%d%d%d,and a,and,andc),b
+in the event that(a>b)
+in the event that (a>c)
+max=a
+else max =c
+else if(a>c)
+max=b
+else max =c
+print and("a maximum =%d"max),3
