@@ -1,6 +1,6 @@
 class cashieringsystem:
 def __init__(self, a=0, r=0,recieve=0,change=0,temp=0):
-print("\n\n*****WELCOME TO SIMPLE CASHIERING SYSTEM*****\n")
+print("*****WELCOME TO SIMPLE CASHIERING SYSTEM*****")
 self.a = a
 self.r = r
 self.recieve = recieve
