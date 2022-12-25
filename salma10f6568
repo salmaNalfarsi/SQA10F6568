@@ -6,7 +6,7 @@ self.r = r
 self.recieve = recieve
 self.change = change
 self.temp = temp
-def foods(self):
+def devices(self):
 print("*****DEVICES MENU*****")
 print("1.iphones----->30", "\n2.ovens----->35", "\n3.printers--->50", "\n4.mouses ---->40","\n5.Cash Out", "\n6.Exit")
 while (1):
