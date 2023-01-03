@@ -33,6 +33,10 @@ quit()
 elif (c == 6):
 quit()
 else:
+hi 
+how
+ate
+you
 print("Invalid option")
 def main():
 a = cashieringsystem()
