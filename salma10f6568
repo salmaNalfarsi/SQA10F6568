@@ -39,3 +39,6 @@ a = cashieringsystem()
 while (1):
 a.devices()
 main()
+
+hello 
+every thing ok 
