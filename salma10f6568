@@ -25,6 +25,7 @@ d = int(input("Enter the quantity:\n"))
 self.r = self.r + 40 * d
 elif (c == 5):
 print("total:", self.r)
+// test the code 
 if (self.r > 0):
 recieve = int(input("Input Money Recieve:\n"))
 print("Change:",recieve - self.r)
