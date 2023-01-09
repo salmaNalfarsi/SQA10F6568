@@ -38,6 +38,8 @@ hi
 how
 are
 your day !
+
+good always check the code please
 print("Invalid option")
 def main():
 a = cashieringsystem()
